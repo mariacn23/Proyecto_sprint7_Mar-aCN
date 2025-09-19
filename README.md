@@ -6,7 +6,7 @@ Aplicación web simple hecha con **Streamlit** para visualizar un dataset de anu
 Incluye un **histograma** (odometer) y un **gráfico de dispersión** (price vs odometer), controlados por **botones** y/o **casillas de verificación**.
 
 ## Demo
-- **URL (Render):** <https://<TU-APP>.onrender.com>  ← reemplaza cuando la despliegues
+- **URL (Render):** <https://proyecto-sprint7-mariacn.onrender.com>
 
 ## Funcionalidad
 - Encabezado con el título.
